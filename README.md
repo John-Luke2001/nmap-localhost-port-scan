@@ -11,7 +11,6 @@ Use Nmap to identify open ports and running services on a local Windows host.
 
 ## Commands Used
 
-## Commands Used
 
 ```bash
 nmap localhost
