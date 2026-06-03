@@ -33,3 +33,13 @@ nmap -sV localhost
 - Port 135 is used for Windows administrative services.
 - Port 445 provides SMB file sharing capabilities.
 - Open services represent potential attack surfaces that security analysts must monitor and secure.
+## Screenshots
+
+### Nmap Installation Verification
+![Nmap Version](screenshots/nmap-version.png)
+
+### Localhost Port Scan
+![Localhost Scan](screenshots/localhost-scan.png)
+
+### Service Enumeration
+![Service Scan](screenshots/service-scan.png)
