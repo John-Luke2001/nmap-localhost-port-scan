@@ -34,9 +34,8 @@ nmap -sV localhost
 ## Security Relevance
 
 - Port 135 is used for Windows administrative services.
-- Port 445 provides SMB file sharing capabilities.
-- Open services represent potential attack surfaces that security analysts must monitor and secure.
-
+- Port 445 provides SMB file sharing capabilities and is commonly targeted during lateral movement and ransomware attacks.
+- Open services increase an organization's attack surface and should be monitored, hardened, and regularly assessed.
 ## Screenshots
 
 ### Nmap Installation Verification
